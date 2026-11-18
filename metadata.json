@@ -1,0 +1,8 @@
+{
+  "name": "KB Dev — Digital Solutions Specialist",
+  "description": "KB Dev helps modern businesses grow through high-converting Website Design, cinema-grade Video Editing, and AI-powered Automation systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
